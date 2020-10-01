@@ -8,7 +8,7 @@ Title: Text-Editor
 
 # DESCRIPTION
 
-It is a tkinter ,Python project open for contribution and beginner friendly.
+It is a tkinter ,Python project open for contribution and beginner friendly. Any beginner can learn to create this project and then learn further. We are adding extra features in this project. Hope you'll be back on this project!
 
 =======================================================================
 
@@ -16,7 +16,7 @@ It is a tkinter ,Python project open for contribution and beginner friendly.
 
 - Various themes available.
 - All required font styles and colours.
-- Text to speech (Beta) 
+- Text to speech (Beta Version) 
     
 =======================================================================
 
